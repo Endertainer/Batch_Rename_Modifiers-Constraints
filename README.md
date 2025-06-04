@@ -35,3 +35,7 @@ This add-on has 9 settings:
 - **Suffix**
 
   Add the new name at the end of the old name.
+
+## How to Use
+
+Right click on the viewport and you should find the **Batch Rename Modifiers/Constraints** on the menu.
