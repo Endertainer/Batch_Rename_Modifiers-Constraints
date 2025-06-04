@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+
+id = "batch_rename_modifiers_constraints"
+name = "Batch Rename Modifiers/Constraints"
+tagline = "Batch rename modifiers or constraints on objects or bones"
+version = "1.0.0"
+maintainer = "Endertainer007 <endertainer@protonmail.com>"
+type = "add-on"
+blender_version_min = "4.4.0"
+license = ["SPDX:GPL-3.0-or-later"]
